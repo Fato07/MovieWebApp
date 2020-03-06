@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/fathindosunmu/OneDrive/MyProjects/MvcMovie/WebApp/WebApp.csproj",
+    "projectUniqueName": "/Users/fathindosunmu/OneDrive/MyProjects/GitHubProjects/MovieApp/MovieWebApp/MvcMovie/WebApp/WebApp.csproj",
     "projectName": "WebApp",
-    "projectPath": "/Users/fathindosunmu/OneDrive/MyProjects/MvcMovie/WebApp/WebApp.csproj",
-    "outputPath": "/Users/fathindosunmu/OneDrive/MyProjects/MvcMovie/WebApp/obj/",
+    "projectPath": "/Users/fathindosunmu/OneDrive/MyProjects/GitHubProjects/MovieApp/MovieWebApp/MvcMovie/WebApp/WebApp.csproj",
+    "outputPath": "/Users/fathindosunmu/OneDrive/MyProjects/GitHubProjects/MovieApp/MovieWebApp/MvcMovie/WebApp/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
